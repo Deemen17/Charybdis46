@@ -14,7 +14,7 @@ manifest:
     - name: zmk-pmw3610-driver
       remote: inorichi
       revision: main
-    - name: zmk-deemen17
+    - name: zmk_deemen17
       remote: deemen17
       revision: main
   self:
