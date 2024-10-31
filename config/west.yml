@@ -17,5 +17,6 @@ manifest:
     - name: zmk_deemen17
       remote: deemen17
       revision: main
+      import: app/west.yml
   self:
     path: config
